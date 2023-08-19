@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vaishnavi Kota
-Skills: HTML, CSS, JS, Python, Android, PHP, MySQL
-Email: kota.1jan2002@gmail.com
-{{/user}}
